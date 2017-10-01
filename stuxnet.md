@@ -2,13 +2,13 @@
 # O *worm Stuxnet*
 
 <p align = "justify">
-<i>Stuxnet</i> é um <i>worm</i> utilizado para monitorizar e controlar instalações industriais de larga escala. Foi incialmente descoberto a Junho de 2010 pela empresa bielorrussa VirusBlokAda, numa central nuclear iraniana. Foi o primeiro <i>malware</i> que conseguiu interagir com o mundo físico e não apenas danificar o equipamento infetado.
+<i>Stuxnet</i> é um <i>worm</i> utilizado para monitorizar e controlar instalações industriais de larga escala. Foi inicialmente descoberto a Junho de 2010 pela empresa bielorrussa VirusBlokAda, numa central nuclear iraniana. Foi o primeiro <i>malware</i> que conseguiu interagir com o mundo físico e não apenas danificar o equipamento infetado.
 </p>
 
 ### Como funciona
 
 <p align = "justify">
-Este worm propaga-se maioritariamente por <i>pen drives</i>, permitindo-lhe facilmente infetar dispositivos e redes que não estão conectados à <i>Internet</i>. O <i>malware</i> explorava algumas vulnerabilidades (também chamadas de <i>zero-days</i>) de um método que o sistema operativo <i>Windows</i> usava para lidar com os ficeiros de atalho (ficheiros .lnk). Normalmente, este tipo de ficheiros é inofensivo a não ser que um utilizador execute esse ficheiro. Porém, a empresa bielorrusa descobriu que os ficheiros na origem do <i>worm</i> eram capazes de se executar automaticamente, se fossem guardados numa <i>pen drive</i> que fosse, mais tarde, aberta pelo <i>Windows Explorer</i>. <b>Sergey Ulasen</b>, chefe da equipa que descobriu a existência deste <i>malware</i>, num <a href=http://anti-virus.by/en/tempo.shtml> comunicado</a>, explica:
+Este worm propaga-se maioritariamente por <i>pen drives</i>, permitindo-lhe facilmente infetar dispositivos e redes que não estão conectados à <i>Internet</i>. O <i>malware</i> explorava algumas vulnerabilidades (também chamadas de <i>zero-days</i>) de um método que o sistema operativo <i>Windows</i> usava para lidar com os ficheiros de atalho (ficheiros .lnk). Normalmente, este tipo de ficheiros é inofensivo a não ser que um utilizador execute esse ficheiro. Porém, a empresa bielorrusa descobriu que os ficheiros na origem do <i>worm</i> eram capazes de se executar automaticamente, se fossem guardados numa <i>pen drive</i> que fosse, mais tarde, aberta pelo <i>Windows Explorer</i>. <b>Sergey Ulasen</b>, chefe da equipa que descobriu a existência deste <i>malware</i>, num <a href=http://anti-virus.by/en/tempo.shtml> comunicado</a>, explica:
 </p>
 
 > “[...] You just have to open infected USB storage device using (Windows) Explorer or any other file manager which can display icons (for i.e. Total Commander) to infect your Operating System and allow execution of the malware. [...]”
