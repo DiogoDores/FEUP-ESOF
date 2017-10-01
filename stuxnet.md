@@ -51,7 +51,7 @@ Estima-se que cerca de 1000 centrifugadoras foram afetadas pelo <i>Stuxnet</i>. 
 <p align="center">
  <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "computadores infetados">
   <br>
-  Fig. 3 - Percentagem de computares afetados pelo <i>Stuxnet</i> globalmente
+  Fig. 3 - Percentagem de computadores afetados pelo <i>Stuxnet</i> globalmente
 </p>
 
 
