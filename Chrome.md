@@ -5,6 +5,8 @@ Em setembro de 2015, Andris Atteka, investigador de segurança, reportou uma vul
 
 O URL que originalmente foi descoberto por explorar esta falha do browser era composto por 26 carateres, mas foi popularizada rapidamente uma versão mais curta - `http://a/%%30%30` - totalizando, assim, 16 carateres.
 
+É de notar que este bug não só afetou o Google Chrome, como todas as aplicações baseadas em Chromium, incluindo outros browsers como o Opera e apps como o Atom e Slack.
+
 Para tentar compreender a origem da vulnerabilidade, é necessário ter assente a noção de que, na sua essência, um computador é simplesmente uma cadeia interminável de zeros e uns. A certo ponto, o computador repara que uma determinada zona de memória corresponde, por exemplo, ao princípio do URL a que o utilizador pretende aceder. A leitura e condição de paragem reside em duas principais técnicas. Uma baseia-se em armazenar o número de carateres para ler e outra na leitura contínua até aterrar num carater `NULL`, um byte vazio.  
 As percentagens no nosso URL malicioso significam um carater codificado. Ora, `%30` significa 0 - o número, não o carater nulo. Descodifiquemos agora o URL resultante. Em `http://a/%00`, `%00` é convertido para `NULL`. A função descodificadora marca o link como seguro para usar e o inevitável acontece.  
 
