@@ -31,15 +31,34 @@ O <i>worm</i> foi inicialmente utilizado para prejudicar e parar o funcionamento
 <p align="center">
  <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "Esquema sumário da propagação do worm">
   <br>
-  Fig.1 - Esquema sumário da propagação do <i>worm</i>
+  Fig. 1 - Esquema sumário da propagação do <i>worm</i>
 </p>  
-  
+
+<p align="center">
 Estima-se que cerca de 1000 centrifugadoras foram afetadas pelo <i>Stuxnet</i>. No entanto, o governo iraniano não lançou nenhuma informação acerca dos danos  causados ou do custo dos mesmos, sendo impossível estimar valores com certeza.
 </p>
 
 <p align="center">
  <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "Presidente iraniano Mahmoud Ahmadinejad durante uma visita às centrifugadoras em Natanz (2008)">
   <br>
-  Fig.2 - Presidente iraniano, Mahmoud Ahmadinejad, durante uma visita às centrifugadoras em Natanz (2008)
+  Fig. 2 - Presidente iraniano, Mahmoud Ahmadinejad, durante uma visita às centrifugadoras em Natanz (2008)
 </p>
 
+<p align="justify">
+  O <i>worm</i> conseguiu ainda afetar outros países. Contudo, como o <i>Stuxnet</i> necessita de condições muito específicas para funcionar, em muitos dispositivos não surtiu qualquer efeito, tendo ficado inerte. 
+</p>
+
+<p align="center">
+ <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "computadores infetados">
+  <br>
+  Fig. 3 - Percentagem de computares afetados pelo <i>Stuxnet</i> globalmente
+</p>
+
+
+
+https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg -> imagem
+https://uk.norton.com/stuxnet -> Introdução
+https://www.forbes.com/2010/10/06/iran-nuclear-computer-technology-security-stuxnet-worm.html -> como funciona
+https://krebsonsecurity.com/2010/07/experts-warn-of-new-windows-shortcut-flaw/#more-4045 -> como funciona
+https://www.youtube.com/watch?v=7g0pi4J8auQ -> Conclusão
+http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg -> imagem
