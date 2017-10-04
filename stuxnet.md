@@ -26,7 +26,8 @@ Estes PLC's são pequenos sistemas de controlo industrial que executam todo o ti
 ### Sistemas afetados e consequências
 
 <p align = "justify">
-O <i>worm</i> foi inicialmente utilizado para prejudicar e parar o funcionamento de centrais nucleares iranianas responsáveis pelo enriquecimento de urânio. O <i>Stuxnet</i>, ao aceder aos PLC's, conseguia controlar as centrifugadoras da central e, aumentando a sua velocidade de rotação, destrui-las, impossibilitando a sua posterior utilização. 
+O <i>worm</i> foi inicialmente utilizado para prejudicar e parar o funcionamento de centrais nucleares iranianas responsáveis pelo enriquecimento de urânio. O <i>Stuxnet</i>, ao aceder aos PLC's, conseguia controlar as centrifugadoras da central e, aumentando a sua velocidade de rotação, destrui-las, impossibilitando a sua posterior utilização.
+ </p>
   
 <p align="center">
  <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "Esquema sumário da propagação do worm">
