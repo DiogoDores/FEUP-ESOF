@@ -30,7 +30,7 @@ O <i>worm</i> foi inicialmente utilizado para prejudicar e parar o funcionamento
  </p>
   
 <p align="center">
- <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "Esquema sumário da propagação do worm">
+ <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "Esquema sumário da propagação do worm" height = "415" width = "650">
   <br>
   Fig. 1 - Esquema sumário da propagação do <i>worm</i>
   <sup><a href = http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg>[4]</a></sup>
@@ -41,7 +41,7 @@ Estima-se que cerca de 1000 centrifugadoras foram afetadas pelo <i>Stuxnet</i>. 
 </p>
 
 <p align="center">
- <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "Presidente iraniano Mahmoud Ahmadinejad durante uma visita às centrifugadoras em Natanz (2008)">
+ <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "Presidente iraniano Mahmoud Ahmadinejad durante uma visita às centrifugadoras em Natanz (2008)" height = "415" width = "650">
   <br>
   Fig. 2 - Presidente iraniano, Mahmoud Ahmadinejad, durante uma visita às centrifugadoras em Natanz (2008)
   <sup><a href = https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg>[5]</a></sup>
@@ -52,7 +52,7 @@ Estima-se que cerca de 1000 centrifugadoras foram afetadas pelo <i>Stuxnet</i>. 
 </p>
 
 <p align="center">
- <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "computadores infetados">
+ <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "computadores infetados" height = "415" width = "650">
   <br>
   Fig. 3 - Percentagem de computadores afetados pelo <i>Stuxnet</i> globalmente
   <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[6]</a></sup>
