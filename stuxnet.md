@@ -58,7 +58,7 @@ The worm was still able to affect other countries. However, since Stuxnet needs 
   <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[6]</a></sup>
 </p>
 
-### :joy: :joy: :joy: Who did this??!! :joy: :joy: :joy:
+### Who created Stuxnet?
 
 At the time of the attack there was no clue of who had created the malware or how it managed to infect Iran's biggest nuclear power plant. However, there was some suspicion that the United States of America cooperated with Israel in the creation of this "weapon". The suspicions were confirmed when, in 2013, Edward Snowden leaked this information. 
 
