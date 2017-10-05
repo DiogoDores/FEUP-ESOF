@@ -30,7 +30,7 @@ The worm was initially used to damage and stop the production of Iranian nuclear
  </p>
   
 <p align="center">
- <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "scheme" height = "207" width = "325">
+ <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "scheme" height = "365" width = "525">
   <br>
   Img. 1 - How the worm worked
   <sup><a href = http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg>[4]</a></sup>
@@ -45,7 +45,7 @@ The worm was still able to affect other countries. However, since Stuxnet needs 
 </p>
 
 <p align="center">
- <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "infected" height = "207" width = "325">
+ <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "infected" height = "365" width = "525">
   <br>
   Img. 2 - Percentage of computers affected by Stuxnet globally
   <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[5]</a></sup>
