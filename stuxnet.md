@@ -1,67 +1,71 @@
 
-# O *worm Stuxnet*
+# The Stuxnet worm
 
 <p align = "justify">
-<i>Stuxnet</i> é um <i>worm</i> utilizado para monitorizar e controlar instalações industriais de larga escala. Foi inicialmente descoberto a Junho de 2010 pela empresa bielorrussa VirusBlokAda, numa central nuclear iraniana. Foi o primeiro <i>malware</i> que conseguiu interagir com o mundo físico e não apenas danificar o equipamento infetado.<sup><a href = https://uk.norton.com/stuxnet>[1]</a></sup>
+Stuxnet is a computer worm used to monitor and control large-scale industrial facilities. It was first discovered in June 2010 by the Belarusian company VirusBlokAda at an Iranian nuclear plant. It was the first type of malware that was able to interact with the physical world and not just damage the infected equipment.<sup><a href = https://uk.norton.com/stuxnet>[1]</a></sup>
 </p>
 
-### Como funciona
+### How it works
 
 <p align = "justify">
-Este worm propaga-se maioritariamente por <i>pen drives</i>, permitindo-lhe facilmente infetar dispositivos e redes que não estão conectados à <i>Internet</i>. O <i>malware</i> explorava algumas vulnerabilidades (também chamadas de <i>zero-days</i>) de um método que o sistema operativo <i>Windows</i> usava para lidar com os ficheiros de atalho (ficheiros .lnk). Normalmente, este tipo de ficheiros é inofensivo a não ser que um utilizador execute esse ficheiro. Porém, a empresa bielorrusa descobriu que os ficheiros na origem do <i>worm</i> eram capazes de se executar automaticamente, se fossem guardados numa <i>pen drive</i> que fosse, mais tarde, aberta pelo <i>Windows Explorer</i>.<sup><a href = https://www.forbes.com/2010/10/06/iran-nuclear-computer-technology-security-stuxnet-worm.html>[2]</a></sup><b> Sergey Ulasen</b>, chefe da equipa que descobriu a existência deste <i>malware</i>, num <a href=http://anti-virus.by/en/tempo.shtml> comunicado</a>, explica:
+This worm spreads mostly by pen drives, allowing it to easily infect devices and networks that are not connected to the Internet. The malware exploited some vulnerabilities (also called zero-days) of a method how the Windows operating system used to deal with shortcut files (.lnk files). Typically, this type of file is harmless unless a user runs it. However, the Belarusian company found that the files containing the malicious worm were able to run automatically if they were saved on a pen drive that was later opened by Windows Explorer.<sup><a href = https://www.forbes.com/2010/10/06/iran-nuclear-computer-technology-security-stuxnet-worm.html>[2]</a></sup><b> Sergey Ulasen</b>, chief of the team who discovered the existence of this malware <a href=http://anti-virus.by/en/tempo.shtml> stated</a>:
 </p>
 
 > “[...] You just have to open infected USB storage device using (Windows) Explorer or any other file manager which can display icons (for i.e. Total Commander) to infect your Operating System and allow execution of the malware. [...]”
 
 <p align = "justify">
-O <i>Stuxnet</i> instala ainda duas drivers (<i>mrxnet.sys</i> e <i>mrxcls.sys</i>). Estes ficheiros, também chamados de <i>rootkits</i>, eram utilizados de modo a tornar o <i>malware</i> invisível ao utilizador. A equipa de Ulasen descobriu também que estes ficheiros possuiam a assinatura digital da <a href=http://www.realtek.com/> Realtek</a>.
+Stuxnet also installs two drivers (mrxnet.sys and mrxcls.sys). These files, also called rootkits, were used to make the malware invisible to the user. Ulasen's team also found that these files had <a href=http://www.realtek.com/> Realtek</a>'s digital signature.
 </p>
 
 <p align = "justify">
-No entanto, o <i>worm</i> não afeta realmente os computadores infetados. O que este faz, é procurar um determinado modelo de um <i>Programmable Logic Controller</i> (PLC), manufaturado pela <a href=https://www.siemens.com/global/en/home.html> Siemens</a>.
+However, the worm does not actually affect the infected computers. What this does is look for a particular model of a Programmable Logic Controller (PLC), manufactured by <a href=https://www.siemens.com/global/en/home.html> Siemens</a>.
 </p>
 
-Estes PLC's são pequenos sistemas de controlo industrial que executam todo o tipo de processos automatizados.<sup><a href = https://krebsonsecurity.com/2010/07/experts-warn-of-new-windows-shortcut-flaw/#more-4045>[3]</a></sup> 
+These PLCs are small industrial control systems that perform all kind of automated processes.<sup><a href=https://krebsonsecurity.com/2010/07/experts-warn-of-new-windows-shortcut-flaw/#more-4045>[3]</a></sup>
 
-### Sistemas afetados e consequências
+### Affected systems and consequences
 
 <p align = "justify">
-O <i>worm</i> foi inicialmente utilizado para prejudicar e parar o funcionamento de centrais nucleares iranianas responsáveis pelo enriquecimento de urânio. O <i>Stuxnet</i>, ao aceder aos PLC's, conseguia controlar as centrifugadoras da central e, aumentando a sua velocidade de rotação, destrui-las, impossibilitando a sua posterior utilização.
+The worm was initially used to damage and stop the production of Iranian nuclear plants responsible for uranium enrichment. Stuxnet, when accessing the PLC's, was able to control the centrifuges of the plant and, by increasing its speed of rotation, destroy them, making it impossible to use them again.
  </p>
   
 <p align="center">
- <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "Esquema sumário da propagação do worm" height = "415" width = "650">
+ <img src="http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg"  alt = "scheme" height = "415" width = "650">
   <br>
-  Fig. 1 - Esquema sumário da propagação do <i>worm</i>
+  Img. 1 - How the worm worked
   <sup><a href = http://www.extremetech.com/wp-content/uploads/2015/03/Stuxnet.jpg>[4]</a></sup>
 </p>  
 
 <p align="center">
-Estima-se que cerca de 1000 centrifugadoras foram afetadas pelo <i>Stuxnet</i>. No entanto, o governo iraniano não lançou nenhuma informação acerca dos danos  causados ou do custo dos mesmos, sendo impossível estimar valores com certeza.
+It is estimated that about 1000 centrifuges were affected by Stuxnet. However, the Iranian government has not released any information about the damage caused or the cost of it, and it is impossible to estimate values with certainty.
 </p>
 
 <p align="center">
- <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "Presidente iraniano Mahmoud Ahmadinejad durante uma visita às centrifugadoras em Natanz (2008)" height = "415" width = "650">
+ <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "visit" height = "415" width = "650">
   <br>
-  Fig. 2 - Presidente iraniano, Mahmoud Ahmadinejad, durante uma visita às centrifugadoras em Natanz (2008)
+  Img. 2 - Iranian President, Mahmoud Ahmadinejad, during a visit to the centrifuges at Natanz (2008)
   <sup><a href = https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg>[5]</a></sup>
 </p>
 
 <p align="justify">
-  O <i>worm</i> conseguiu ainda afetar outros países. Contudo, como o <i>Stuxnet</i> necessita de condições muito específicas para funcionar, em muitos dispositivos não surtiu qualquer efeito, tendo ficado inerte. Ainda assim, ao longo de vários meses, foram sendo descobertos milhares de outros computadores infetados, tal como o gráfico abaixo ilustra.
+The worm was still able to affect other countries. However, since Stuxnet needs very specific conditions to function, in many devices it has had no effect and has become inert. Still, over the course of several months, thousands of other infected computers were being discovered, as the chart below illustrates.
 </p>
 
 <p align="center">
- <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "computadores infetados" height = "415" width = "650">
+ <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "infected" height = "415" width = "650">
   <br>
-  Fig. 3 - Percentagem de computadores afetados pelo <i>Stuxnet</i> globalmente
+  Img. 3 - Percentage of computers affected by Stuxnet globally
   <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[6]</a></sup>
 </p>
+
+### :joy: :joy: :joy: Who did this??!! :joy: :joy: :joy:
+
+At the time of the attack there was no clue of who had created the malware or how it managed to infect Iran's biggest nuclear power plant. However, there was some suspicion that the United States of America cooperated with Israel in the creation of this "weapon". The suspicions were confirmed when, in 2013, Edward Snowden leaked this information. 
 
 ### Conclusão
 
 <p align = "justify">
-Embora todas estas falhas, tanto da Microsoft como da Siemens, já tenham sido corrigidas em updates posteriores, o <i>Stuxnet</i> não pode ser ignorado. Existem <i>online</i> várias versões deste <i>worm</i>, conseguindo qualquer pessoa (com os fundos e conhecimentos suficientes) alterar este vírus e utilizá-lo a uma escala bastante mais larga, podendo as consequências deste ataque ser devastadoras. No vídeo abaixo está sucintamente resumido o ataque à central nuclear e o que este pode ter desencadeado.
+Although all of these flaws, both Microsoft and Siemens, have already been fixed in subsequent updates, Stuxnet can not be ignored. There are several versions of this worm online, so anyone (with sufficient funds and knowledge) can change this virus and use it on a much larger scale, and the consequences of this could be devastating. The video below briefly summarizes the attack on the nuclear power plant and what it may have triggered.
 </p>
 
 <p align = "center">
