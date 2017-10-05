@@ -40,13 +40,6 @@ The worm was initially used to damage and stop the production of Iranian nuclear
 It is estimated that about 1000 centrifuges were affected by Stuxnet. However, the Iranian government has not released any information about the damage caused or the cost of it, and it is impossible to estimate values with certainty.
 </p>
 
-<p align="center">
- <img src="https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg"  alt = "visit" height = "415" width = "650">
-  <br>
-  Img. 2 - Iranian President, Mahmoud Ahmadinejad, during a visit to the centrifuges at Natanz (2008)
-  <sup><a href = https://media.wired.com/photos/593238c69be5e55af6c2398e/master/w_532,c_limit/Ahmadinejad-at-Natanz.jpg>[5]</a></sup>
-</p>
-
 <p align="justify">
 The worm was still able to affect other countries. However, since Stuxnet needs very specific conditions to function, in many devices it has had no effect and has become inert. Still, over the course of several months, thousands of other infected computers were being discovered, as the chart below illustrates.
 </p>
@@ -54,8 +47,8 @@ The worm was still able to affect other countries. However, since Stuxnet needs 
 <p align="center">
  <img src="http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg"  alt = "infected" height = "415" width = "650">
   <br>
-  Img. 3 - Percentage of computers affected by Stuxnet globally
-  <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[6]</a></sup>
+  Img. 2 - Percentage of computers affected by Stuxnet globally
+  <sup><a href = http://www.symantec.com/content/en/us/global/images/threat_writeups/2010-071400-3123-99.1.jpg>[5]</a></sup>
 </p>
 
 ### Who created Stuxnet?
