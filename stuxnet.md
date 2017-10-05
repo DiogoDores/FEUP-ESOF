@@ -62,7 +62,7 @@ The worm was still able to affect other countries. However, since Stuxnet needs 
 
 At the time of the attack there was no clue of who had created the malware or how it managed to infect Iran's biggest nuclear power plant. However, there was some suspicion that the United States of America cooperated with Israel in the creation of this "weapon". The suspicions were confirmed when, in 2013, Edward Snowden leaked this information. 
 
-### Conclusão
+### Conclusion
 
 <p align = "justify">
 Although all of these flaws, both Microsoft and Siemens, have already been fixed in subsequent updates, Stuxnet can not be ignored. There are several versions of this worm online, so anyone (with sufficient funds and knowledge) can change this virus and use it on a much larger scale, and the consequences of this could be devastating. The video below briefly summarizes the attack on the nuclear power plant and what it may have triggered.
