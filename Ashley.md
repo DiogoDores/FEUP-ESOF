@@ -2,8 +2,9 @@
 
 Ashley Madison is a website where useres can register and seek relationships with otheres, whether they're already in a relationship themselves or not. It was one of the first websites to offer the oportunity of having extramarital affairs discretely.
 
-<p align = "center" /p>
+<p align = "center" >
 <img src="https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAcrAAAAJDkyMzg5M2Y2LTc3ODUtNGFlNy04YzZkLTIxMDczZjg3ZDBiZA.jpg" alt="Ashley logo" width="500">
+  </p>
 
 ### The leak
 
