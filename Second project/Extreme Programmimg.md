@@ -10,6 +10,19 @@
   Extreme Programming delivers the software to the customers whenever they need it. The developers can always respond to ever-changing customer requirements. This is achieved my having multiple short development cycles, rather than a long one.
   XP emphasizes teamwork allowing managers, customers and developers to be apart of the same team. This allows the team solve a problem as efficiently as possible. EP can be divided into two concepts: **Values** and **Activities**.
   
+  ### Values
+  XP has 5 cornerstone values (the 5th was added in the second edition of *Extreme Programming Explained*). Communication, simplicity, feedback, courage and respect.
+  
+   **Comumnication** is encouraged between programmers. Since XP is very focused on teamwork by communicating with one another the goal is to give all developers a shared view of what they are supposed to do. Of course, it is also beneficial to have a healthy communication with the customers, since they are the ones who dictate what the team should do.
+   
+   In XP it is recommended to always start with the **simplest** solution. The YAGNI (You aren't gonna need it) approach is often used. Programmers don't focus much on future investments because they are very uncertain, and doing so may be a waste of valuable time and resources. Instead, they focus on taking one problem at a time, giving more effort for things they need for today, instead of next week or next month.
+   
+   **Feedback** is closely related to communication and simplicity. The main feedback givers are the system, the customer and the team. Programmers have direct feedback from the system on the current state of their program through unit tests and compilation runs. The customers periodically evaluate the work of the developer team and state their opinion on whether the program is currently to their liking or not. The team can give feedback to one another stating if they are working correctly and give feedback to the customer by giving an estimate of time of how long a project will take and how much it will cost.
+   
+   **Courage** is needed for certain tasks. As stated before, it takes courage to code for today instead of for tomorrow. It also enables developers to refactor their code whenever they find it appropriate (and sometimes refactoring can be extremely complicated). Courage is also knowing when to throw code away (code that is now obsolete or that no longer makes sense when refactoring). It makes the developers more persistent when struggling and able to take their problems head on. They don't give up because they know that the next day they might be able to find a solution.
+   
+   **Respect** is a very important value. Programmers should not disrespect the problems of other members of their team. They don't commit code that may break the code of others and always discuss what their next step should be instead of acting as a lone wolf and facing the project without consulting others.
+  
 ### Activities
   Activities can be divided into 4 main software development processes: coding, testing, listening and designing. 
   
@@ -20,10 +33,4 @@
   For XP developers their capabilieties and expertise in techincal abilities should always be accompanied by the ability to be good **listeners**. This will make them be able to better design what the customers require and desire.
   
   Even though XP is known for it's simplicity it doesn't mean that designing a proper structure should be completely off the table. In fact, it is very important for preventing long run systems from becoming too complex. Developers should be very careful in early stages so as to prevent projects from coming to a halt.
-
-### Values
-  XP has 5 cornerstone values (the 5th was added in the second edition of *Extreme Programming Explained*).
-  
-   **Comumnication** is encouraged between programmers. Since XP is very focused on teamwork by communicating with one another the goal is to give all developers a shared view of what they are supposed to do. Of course, it is also beneficial to have a healthy communication with the customers, since they are the ones who dictate what the team should do.
-   
    
