@@ -33,4 +33,9 @@
   For XP developers their capabilieties and expertise in techincal abilities should always be accompanied by the ability to be good **listeners**. This will make them be able to better design what the customers require and desire.
   
   Even though XP is known for it's simplicity it doesn't mean that designing a proper structure should be completely off the table. In fact, it is very important for preventing long run systems from becoming too complex. Developers should be very careful in early stages so as to prevent projects from coming to a halt.
+  
+  ### Pros and Cons
+  XP is very cost efficient, sparing the developers from a lot of paperwork and meetings and focusing more on the code. The cost of making changes increases the more the software advances in its life cycle, so it's better to change your code in the development stage, which is what XP does, whether than after delivery, which is what most other development techniques do.
+  Another major pro is that since the work is equally divided amongst team members, there is no huge dependency on one member providing a major part of the program. This reduces risk of breakdown of the project. Teams are usually more satisfied with this kind ofa pproach.
+  The biggest disadvantage in XP is that it assumes the constant involvment of the customer. It relies heavily on this and the truth is  the customer might not be available or may even dislike this kind of involvment. This could be a problem in the development stage.
    
