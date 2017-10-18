@@ -18,7 +18,7 @@ The PSP design is based on the following planning and quality principles:
 * Efficient development
 * Simplicity
 
-All these principles need to be tailored to each specific individual. Every engineer is different and have different needs.
+All these principles need to be tailored to each specific individual. It is expected that every engineer who uses this method plans and executes the process in his own way.
 
 
 ### Process Structure
@@ -29,4 +29,40 @@ The first step in the PSP process is planning. There is a planning script that g
  <img src="https://jjegonzalezf.files.wordpress.com/2010/12/sshot-5.png"  alt = "structure">
   <br>
   Img. 1 - The PSP Structure
-</p>  
+</p>
+
+Since the PSP process has a number of methods that are not generally practiced by engineers, the PSP methods are introduced in a series of seven process versions. These versions are labeled PSP0 through PSP3, and each version has a similar set of logs, forms, scripts, and standards. Each one of these versions will be briefly explained below.
+
+#### PSP0 : Personal Measurement
+
+* Engineers gather data on the time they spend by phase and the defects they find
+* Generates real, personal data and provides the base benchmark for measuring progress
+* 3 phases: planning, development and postmortem
+* Adds a coding standard, size measurement and a process improvement proposal
+
+#### PSP1 : Personal Planning
+
+* Introduces a method for estimating sizes and development times for new programs based on personal data 
+* The methods employed are usually based on linear regression with prediction intervals to indicate size and estimate quality 
+* Adds schedule and task planning
+
+#### PSP2 : Personal Quality
+
+* Introduces defect management 
+* Construction and usage of checklists for design and code review
+* Adds design specification and analysis techniques along with defect prevention, process analyses and process benchmarks
+
+#### PSP3 : Scaling Up
+
+This final step shows how engineers can couple multiple processes in a cyclic fashion to scale up to developing systems with many thousands of lines of code (LOC). It uses an iterative enhancement approach.
+
+A team software process should be developed as the next step for systems larger that 10K LOC.
+
+### Pros and Cons
+
+The PSP was praised at the time it was created because it aided software engineers solve some of the most common mistakes. Improve their estimating and planning skills, make commitments they can keep, manage the quality of their projects and reduce the number of defects in their work.
+
+However, over time and as some other softwares processes started being developed, the PSP started getting some criticism. Some believed it was a good idea in theory but not in practice, other that it wasn't flexible enough, due to the strict forms you had to fill. For that reason, it was also said that the PSP was too time consuming.
+
+The PSP is only a framework of common sense ideas and suggestions which engineers are encouraged to think about as they learn from experience. The PSP fails, when it is used by the team to criticise individuals. This risk occurs when the PSP is used, rightly, to give feedback to the team-wide process.
+
