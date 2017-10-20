@@ -34,8 +34,8 @@
   
   Even though XP is known for it's simplicity it doesn't mean that designing a proper structure should be completely off the table. In fact, it is of utmost importance for preventing long run systems from becoming too complex. Developers should be very careful in early stages so as to prevent projects from coming to a halt.
   
-  <p align="center">
- <img src="https://cdn.infoq.com/statics_s2_20171017-0336-1/resource/articles/implementing-xp-methodology/en/resources/fig2.png"  alt = "scheme" />
+<p align="center">
+ <img src="https://cdn.infoq.com/statics_s2_20171017-0336-1/resource/articles/implementing-xp-methodology/en/resources/fig2.png" width="300" height="225"/>
   <br>
   Img. 1 - Extreme Programming summary
 </p>  
