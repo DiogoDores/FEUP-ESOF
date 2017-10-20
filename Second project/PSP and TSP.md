@@ -84,7 +84,7 @@ It is mandatory that engineers have already learnt about the Personal Software P
 
 ### Conditions for teamwork
 Humphrey describes that each team member must have roles, given that they provide a sense of ownership and belonging. Roles prevent conflicts, duplicate work and wasted effort.  
-Interdependancy is also crucial as each team member depends to some degree on the performance of others. It **improves** individual performance as members will generally make a special effort to meet their obligations to the rest of the team.  
+Interdependency is also crucial as each team member depends to some degree on the performance of others. It **improves** individual performance as members will generally make a special effort to meet their obligations to the rest of the team.  
 For a team to be effective, some common characteristics are required such as disciplined and motivated members as well as its goal being defined, visible and realistic. They must strive to meet demanding schedules whilst adjusting to change.
 
 ### The principles
