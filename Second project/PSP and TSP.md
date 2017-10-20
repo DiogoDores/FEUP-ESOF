@@ -113,3 +113,12 @@ Following its iterative design, TSP teams are relaunched periodically to assess 
 According to a study by Capers Jones published on May 2013, TSP ranks 3rd from the list of most efficient software development strategies, only surpassed by Scrum and XP. On average, its use results on a development schedule of just over a year for applications of 1000 function points.  
 The study also lists TSP as first on its ability to detect and correct software defects and also first on the matter of Total Cost of Ownership and Cost of Quality. These refer to the costs of maintenance which end up being very low as a result of TSP's quality-related methods instead of speed-related methods.  
 On average, TSP can provide you the fewest defects at the cost of an extra development month period. Strategies like Agile and Scrum do tend to be faster but result on more software flaws and, therefore, higher maintenance costs.
+
+### References
+
+**PSP**
+
+https://www.sei.cmu.edu/reports/00tr022.pdf
+http://www.eng.auburn.edu/files/acad_depts/csse/csse_technical_reports/csse10-08.pdf
+https://stackoverflow.com/questions/28197/do-you-follow-the-personal-software-process-does-your-organization-team-follow
+http://www-public.tem-tsp.eu/~gibson/Teaching/CSC5524/CSC5524-PSP.pdf
