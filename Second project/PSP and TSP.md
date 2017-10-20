@@ -42,13 +42,13 @@ Since the PSP process has a number of methods that are not generally practiced b
 
 #### PSP1 : Personal Planning
 
-* Introduces a method for estimating sizes and development times for new programs based on personal data 
-* The methods employed are usually based on linear regression with prediction intervals to indicate size and estimate quality 
+* Introduces a method for estimating sizes and development times for new programs based on personal data
+* The methods employed are usually based on linear regression with prediction intervals to indicate size and estimate quality
 * Adds schedule and task planning
 
 #### PSP2 : Personal Quality
 
-* Introduces defect management 
+* Introduces defect management
 * Construction and usage of checklists for design and code review
 * Adds design specification and analysis techniques along with defect prevention, process analyses and process benchmarks
 
@@ -66,11 +66,11 @@ However, over time and as some other softwares processes started being developed
 
 The PSP is only a framework of common sense ideas and suggestions which engineers are encouraged to think about as they learn from experience. The PSP fails, when it is used by the team to criticise individuals. This risk occurs when the PSP is used, rightly, to give feedback to the team-wide process.
 
----
+
 
 Despite this last negative opinion regarding the PSP, this method is not to be used alone. In the real world, software is developed by a team and that is why Watts Humprey also created the Team Software Process. This method tightly depends on the PSP and they cannot be used separately.
 
----
+
 
 # The Team Software Process
 
@@ -90,14 +90,14 @@ For a team to be effective, some common characteristics are required such as dis
 ### The principles
 
 These are the major values of the TSP method:
-* Planning  
-* Aggressive plans  
-* Quality ownership  
-* Project goals  
-* Plan ownership  
-* Plan detail  
-* Team roles  
-* Team resources  
+* Planning
+* Aggressive plans
+* Quality ownership
+* Project goals
+* Plan ownership
+* Plan detail
+* Team roles
+* Team resources
 
 
 ### The process
