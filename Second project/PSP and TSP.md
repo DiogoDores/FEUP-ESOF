@@ -10,7 +10,7 @@ One of these steps was taken in software engineering with the Personal Software 
 
 ### Principles
 
-The PSP design is based on the following planning and quality principles:
+
 * Planning
 * Well-defined and measured processes
 * Quality work
