@@ -66,3 +66,9 @@ However, over time and as some other softwares processes started being developed
 
 The PSP is only a framework of common sense ideas and suggestions which engineers are encouraged to think about as they learn from experience. The PSP fails, when it is used by the team to criticise individuals. This risk occurs when the PSP is used, rightly, to give feedback to the team-wide process.
 
+### References
+https://www.sei.cmu.edu/reports/00tr022.pdf
+http://www.eng.auburn.edu/files/acad_depts/csse/csse_technical_reports/csse10-08.pdf
+https://stackoverflow.com/questions/28197/do-you-follow-the-personal-software-process-does-your-organization-team-follow
+http://www-public.tem-tsp.eu/~gibson/Teaching/CSC5524/CSC5524-PSP.pdf
+
