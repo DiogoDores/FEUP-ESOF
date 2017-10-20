@@ -88,7 +88,7 @@ Interdependency is also crucial as each team member depends to some degree on th
 For a team to be effective, some common characteristics are required such as disciplined and motivated members as well as its goal being defined, visible and realistic. They must strive to meet demanding schedules whilst adjusting to change.
 
 ### The principles
-These are the major values of the TSP method:
+These are the major values of the TSP method
 * Commitment
 * Aggressive plans
 * Quality ownership
