@@ -83,25 +83,26 @@ According to the creator, the TCP was designed for use with teams of 2 to 20 mem
 It is mandatory that engineers have already learnt about the Personal Software Process (PSP), intended to improve estimating and planning skills as well as project improvement.
 
 ### Conditions for teamwork
-Humphrey describes that each team member must have roles, given that they provide a sense of ownership and belonging. Roles prevent conflicts, duplicate work and wasted effort.
-Interdependency is also crucial as each team member depends to some degree on the performance of others. It **improves** individual performance as members will generally make a special effort to meet their obligations to the rest of the team.
-For a team to be effective, some common characteristics are required such as disciplined and motivated members as well as its goal being defined, visible and realistic. They must strive to meet demanding schedules whilst adjusting to change.
+Humphrey describes that each team member must have roles, given that they provide a sense of ownership and belonging. Roles prevent conflicts, duplicate work and wasted effort.  
+Interdependency is also crucial as each team member depends to some degree on the performance of others. It **improves** individual performance as members will generally make a special effort to meet their obligations to the rest of the team.  
+For a team to be effective, some common characteristics are required such as disciplined and motivated members as well as its goal being defined, visible and realistic. They must strive to meet demanding schedules whilst adjusting to change.  
 
 ### The principles
 
 These are the major values of the TSP method:
-* Planning
-* Aggressive plans
-* Quality ownership
-* Project goals
-* Plan ownership
-* Plan detail
-* Team roles
-* Team resources
+* Planning  
+* Aggressive plans  
+* Quality ownership  
+* Project goals  
+* Plan ownership  
+* Plan detail  
+* Team roles  
+* Team resources  
+
 
 ### The process
 The TSP development cycle starts with a four-day planning process called the **team launch** to develop the project's strategy, process and plan with a three to four month expectancy.  
-The team launch lasts about 9 meetings over the course of 4 days and do follow scripts.  
+The team launch lasts about 9 meetings over the course of 4 days and do follow scripts.
 * On day 1, team members are assigned team roles and backup roles and the project's strategy and products to use is set.
 * On day 2, size estimates and allocation of work to team members is processed.
 * On day 3, project's risks are evaluated and risk assessment checkpoints are defined.
