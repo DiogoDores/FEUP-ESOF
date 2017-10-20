@@ -34,6 +34,12 @@
   
   Even though XP is known for it's simplicity it doesn't mean that designing a proper structure should be completely off the table. In fact, it is of utmost importance for preventing long run systems from becoming too complex. Developers should be very careful in early stages so as to prevent projects from coming to a halt.
   
+  <p align="center">
+ <img src="https://cdn.infoq.com/statics_s2_20171017-0336-1/resource/articles/implementing-xp-methodology/en/resources/fig2.png"  alt = "scheme" />
+  <br>
+  Img. 1 - Extreme Programming summary
+</p>  
+  
   ### Pros and Cons
   XP is very cost efficient, sparing the developers from a lot of paperwork and meetings and focusing more on the code itself. The cost of making changes increases the more the software advances in its life cycle, so it's better to change your code in the development stage, which is what XP does, whether than after delivery, which is what most other development techniques do.
   Another major pro is that since the work is equally divided amongst team members, there is no huge dependency on one member providing a crucial part of the program. This reduces risk of breakdown of the project. Teams are usually more satisfied with this kind of approach.
