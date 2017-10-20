@@ -39,3 +39,11 @@
   Another major pro is that since the work is equally divided amongst team members, there is no huge dependency on one member providing a crucial part of the program. This reduces risk of breakdown of the project. Teams are usually more satisfied with this kind of approach.
   The biggest disadvantage in XP is that it assumes the constant involvment of the customer. It relies heavily on this and the truth is  the customer might not be available or may even dislike this kind of involvment. This could be a problem in the development stage.
    
+### References
+https://www.quora.com/What-are-the-advantages-and-disadvantages-of-Extreme-Programming
+https://developer.ibm.com/opentech/2015/06/29/2-better-1-extreme-programming/
+http://www.extremeprogramming.org/
+http://wiki.c2.com/?HistoryOfExtremeProgramming
+https://en.wikipedia.org/wiki/Extreme_programming#Origins
+https://www.ukessays.com/essays/information-technology/the-history-of-extreme-programming-information-technology-essay.php
+http://www.umsl.edu/~sauterv/analysis/f06Papers/Hutagalung/
