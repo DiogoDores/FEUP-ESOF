@@ -10,7 +10,6 @@ One of these steps was taken in software engineering with the Personal Software 
 
 ### Principles
 
-
 * Planning
 * Well-defined and measured processes
 * Quality work
@@ -66,11 +65,11 @@ However, over time and as some other softwares processes started being developed
 
 The PSP is only a framework of common sense ideas and suggestions which engineers are encouraged to think about as they learn from experience. The PSP fails, when it is used by the team to criticise individuals. This risk occurs when the PSP is used, rightly, to give feedback to the team-wide process.
 
-
+---
 
 Despite this last negative opinion regarding the PSP, this method is not to be used alone. In the real world, software is developed by a team and that is why Watts Humprey also created the Team Software Process. This method tightly depends on the PSP and they cannot be used separately.
 
-
+---
 
 # The Team Software Process
 
@@ -90,6 +89,8 @@ For a team to be effective, some common characteristics are required such as dis
 ### The principles
 
 These are the major values of the TSP method:
+
+
 * Planning
 * Aggressive plans
 * Quality ownership
@@ -102,6 +103,8 @@ These are the major values of the TSP method:
 
 ### The process
 The TSP development cycle starts with a four-day planning process called the **team launch** to develop the project's strategy, process and plan with a three to four month expectancy.  
+
+
 The team launch lasts about 9 meetings over the course of 4 days and do follow scripts.
 * On day 1, team members are assigned team roles and backup roles and the project's strategy and products to use is set.
 * On day 2, size estimates and allocation of work to team members is processed.
