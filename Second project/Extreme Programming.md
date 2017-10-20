@@ -10,7 +10,7 @@
   Extreme Programming delivers the software to the customers whenever they need it. The developers can always respond to ever-changing customer requirements. This is achieved by having multiple short development cycles, rather than a long one.
   XP emphasizes teamwork, allowing managers, customers and developers to be a part of the same team. This allows the team to solve a problem as efficiently as possible. XP can be divided into two concepts: **Values** and **Activities**.
   
-  ### Values
+### Values
   XP has 5 cornerstone values (the 5th was added in the second edition of *Extreme Programming Explained*). Communication, simplicity, feedback, courage and respect.
   
    **Comumnication** is encouraged between programmers. Since XP is very focused on teamwork by communicating with one another the goal is to give all developers a shared view of what they are supposed to do. Of course, it is also beneficial to have a healthy communication with the customers, since they are the ones who dictate what the team should do.
@@ -34,7 +34,7 @@
   
   Even though XP is known for it's simplicity it doesn't mean that designing a proper structure should be completely off the table. In fact, it is of utmost importance for preventing long run systems from becoming too complex. Developers should be very careful in early stages so as to prevent projects from coming to a halt.
   
-  ### Pros and Cons
+### Pros and Cons
   XP is very cost efficient, sparing the developers from a lot of paperwork and meetings and focusing more on the code itself. The cost of making changes increases the more the software advances in its life cycle, so it's better to change your code in the development stage, which is what XP does, whether than after delivery, which is what most other development techniques do.
   Another major pro is that since the work is equally divided amongst team members, there is no huge dependency on one member providing a crucial part of the program. This reduces risk of breakdown of the project. Teams are usually more satisfied with this kind of approach.
   The biggest disadvantage in XP is that it assumes the constant involvment of the customer. It relies heavily on this and the truth is  the customer might not be available or may even dislike this kind of involvment. This could be a problem in the development stage.
