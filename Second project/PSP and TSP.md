@@ -103,9 +103,9 @@ These are the major values of the TSP method:
 
 ### The process
 The TSP development cycle starts with a four-day planning process called the **team launch** to develop the project's strategy, process and plan with a three to four month expectancy.  
-
-
 The team launch lasts about 9 meetings over the course of 4 days and do follow scripts.
+
+
 * On day 1, team members are assigned team roles and backup roles and the project's strategy and products to use is set.
 * On day 2, size estimates and allocation of work to team members is processed.
 * On day 3, project's risks are evaluated and risk assessment checkpoints are defined.
