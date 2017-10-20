@@ -83,8 +83,8 @@ According to the creator, the TCP was designed for use with teams of 2 to 20 mem
 It is mandatory that engineers have already learnt about the Personal Software Process (PSP), intended to improve estimating and planning skills as well as project improvement.
 
 ### Conditions for teamwork
-Humphrey describes that each team member must have roles, given that they provide a sense of ownership and belonging. Roles prevent conflicts, duplicate work and wasted effort.  
-Interdependency is also crucial as each team member depends to some degree on the performance of others. It improves individual performance as members will generally make a special effort to meet their obligations to the rest of the team.  
+Humphrey describes that each team member must have roles, given that they provide a sense of ownership and belonging. Roles prevent conflicts, duplicate work and wasted effort.
+Interdependency is also crucial as each team member depends to some degree on the performance of others. It **improves** individual performance as members will generally make a special effort to meet their obligations to the rest of the team.
 For a team to be effective, some common characteristics are required such as disciplined and motivated members as well as its goal being defined, visible and realistic. They must strive to meet demanding schedules whilst adjusting to change.
 
 ### The principles
