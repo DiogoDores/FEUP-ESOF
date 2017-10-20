@@ -106,13 +106,39 @@ The team launch lasts about 9 meetings over the course of 4 days and do follow s
 * On day 3, project's risks are evaluated and risk assessment checkpoints are defined.
 * On the final day, the project's plans are discussed and reviewed by the management.
 
+<p align="center">
+ <img src="https://i.imgur.com/6qlGFir.png"  alt = "TSP meeting process" height=400px>
+  <br>
+  Img. 2 - TSP's meeting process
+</p>
+
 After 9 meetings, the development cycle ends with a **final postmortem step** aimed to review the launch process and submit process improvement proposals (PIPs).   
-Following its iterative design, TSP teams are relaunched periodically to assess on the knowledge gained on the previous cycle and to update the engineers' detailed plans.  
+Following its iterative design, TSP teams are relaunched periodically to assess on the knowledge gained on the previous cycle and to update the engineers' detailed plans.
 
 ### Key pros and cons
 According to a study by Capers Jones published on May 2013, TSP ranks 3rd from the list of most efficient software development strategies, only surpassed by Scrum and XP. On average, its use results on a development schedule of just over a year for applications of 1000 function points.  
+
+<p align="center">
+ <img src="https://i.imgur.com/cIE4k4k.png"  alt = "Rating speed" height=200px>
+  <br>
+  Img. 3 - Software processes rating based on development months
+</p>
+
 The study also lists TSP as first on its ability to detect and correct software defects and also first on the matter of Total Cost of Ownership and Cost of Quality. These refer to the costs of maintenance which end up being very low as a result of TSP's quality-related methods instead of speed-related methods.  
+
+<p align="center">
+ <img src="https://i.imgur.com/gzrs11l.png"  alt = "Rating defects" height=150px>
+  <br>
+  Img. 4 - Software processes rating based on TCO and COQ
+</p>
+
 On average, TSP can provide you the fewest defects at the cost of an extra development month period. Strategies like Agile and Scrum do tend to be faster but result on more software flaws and, therefore, higher maintenance costs.
+
+<p align="center">
+ <img src="https://i.imgur.com/eY3ukLd.png"  alt = "Rating defects" height=175px>
+  <br>
+  Img. 5 - Software processes rating based on defects found
+</p>
 
 ### References
 
@@ -122,3 +148,9 @@ https://www.sei.cmu.edu/reports/00tr022.pdf
 http://www.eng.auburn.edu/files/acad_depts/csse/csse_technical_reports/csse10-08.pdf
 https://stackoverflow.com/questions/28197/do-you-follow-the-personal-software-process-does-your-organization-team-follow
 http://www-public.tem-tsp.eu/~gibson/Teaching/CSC5524/CSC5524-PSP.pdf
+
+**TSP**
+
+https://en.wikipedia.org/wiki/Team_software_process
+https://web.archive.org/web/20130629005257/http://namcookanalytics.com/evaluating-ten-software-development-methodologies/
+https://www.sei.cmu.edu/reports/00tr023.pdf
