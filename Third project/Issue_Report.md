@@ -1,17 +1,33 @@
 # Issue Report
 
-For this project we were assigned to solve two different issues from the open-source 3D computer graphics software <a href="https://www.blender.org/">Blender</a>. 
+For this project we were assigned to solve two different issues from the open-source 3D computer graphics software <a href="https://www.blender.org/">Blender</a>.
+
+## Introduction
+
+As none of the members in our group was accustomed to using this software, we attempted to solve issues related to the program's User Interface. This decision was made due to the fact that these issues were the most accessible in terms of replicating the error without prior knowledge of the software's usage.
 
 ## Issue #1 - T49451
 
 ##### <a href="https://developer.blender.org/T49451"> Units parameter resets to previous value </a>
 
-This issue was first noticed on the 25th of September of 2016. It has already been assigned to a user, but as no progress seemed to be made, we decided to try to solve it.
+This issue was first noticed on the 25th of September of 2016. It has already been assigned to a user, but as no progress seemed to be made, we decided to try and solve it.
 
-Briefly, what this issue caused was a reset in the unit values (meters, miles, etc.) after an object was created and one of it's properties (i.e. radius, location, etc.) was altered.
+Briefly, what this issue caused was a reset in the unit values (meters, miles, etc.) after an object was created and one of its properties (i.e. radius, location, etc.) was altered.
+
+#### Requirements
+
+Below there are some instructions on how to replicate the issue:
+
+1. Open Blender
+2. In the *Scene* tab, in the *Units* section, select any type of measurment unit in *Unit Presets* ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) 
+3. In the *Create* tab, create any type of object ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+4. In the object's options, change its size ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+5. The measurment unit that was previously selected has been reset to "None"
+
+![issue_1_instr](https://github.com/DiogoDores/FEUP-ESOF/blob/master/Third%20project/cube_units.png "Issue #1 Instructions")
 
 ### Strategy
-To solve this, we first thought of searching in the code for the interface listener where the object's properties were being changed. We've identified that in the *bf_windowmanager* project folder, in the *wm_operators.c* class, 
+In order to solve this, we first thought of searching in the code for the interface listener where the object's properties were being changed. We've identified that in the *bf_windowmanager* project folder, in the *wm_operators.c* class, 
 
 ## Issue #2 - T51739
 ##### <a href="https://developer.blender.org/T51739"> Float slider in UNDO bug </a>
