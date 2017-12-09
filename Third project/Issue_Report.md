@@ -27,6 +27,12 @@ Below there are some instructions on how to replicate the issue:
 ![issue_1_instr](https://github.com/DiogoDores/FEUP-ESOF/blob/master/Third%20project/cube_units.png "Issue #1 Instructions")
 ![bug](https://github.com/DiogoDores/FEUP-ESOF/blob/master/Third%20project/units_after.png "Demonstration of the bug")
 
+#### Source Code Files
+
+In order to solve this issue, one file was changed and 14 lines of code were added. This file can be found in the Blender folder under the directory C:\...\blender\source\blender\blenkernel\intern\blendfile.c
+
+
+
 ### Strategy
 In order to solve this, we first thought of searching in the code for the interface listener where the object's properties were being changed. We've identified that in the *bf_windowmanager* project folder, in the *wm_operators.c* class, 
 
